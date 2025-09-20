@@ -1,0 +1,10 @@
+Config                            = {}
+Config.Locale                     = 'fr'
+Config.OxInventory                = ESX.GetConfig().OxInventory
+Config.icon_tire = "fa fa-scissors"
+Config.tireknife = "Crever le pneu"
+Config.allowedWeapons = {"WEAPON_KNIFE", "WEAPON_BOTTLE", "WEAPON_DAGGER", "WEAPON_HATCHET", "WEAPON_MACHETE", "WEAPON_SWITCHBLADE"}
+Config.icon_carry = "fa-solid fa-people-carry"
+Config.carry = "Porter la personne"
+Config.icon_carryDead = "fa-solid fa-skull"
+Config.carryDead = "Porter le corps"
